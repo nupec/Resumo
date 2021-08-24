@@ -1,0 +1,94 @@
+---
+title: "insight para Projeto de Pesquisa"
+description: |
+  Neste documento serão apresentadas pesquisas em andamento, bem como área de interesse para possíveis parcerias com vistas ao desenvovlimento de atividades pós-doutorais.
+author:
+  - name: Hidelbrando Ferreira Rodrigues 
+    url: http://lattes.cnpq.br/3660640094137212
+    affiliation: Instituto de Ciências Exatas e Tecnologia da Universidade Federal do Amazonas
+    affiliation_url: https://icet.ufam.edu.br/
+    
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+## Curiculum Vitae Resumido
+> O curriculum completo pode ser encontrado neste link <http://lattes.cnpq.br/3660640094137212>
+
+### Formação
+
+#### Doutorado em Engenharia de Produção (2018)
+* Local: Universidade Federal de Santa Catarina, Brasil
+* Linha de Pesquisa: Pesquisa Operacional
+* Campo teórico: Programação Linear Inteira Mista (PIM)
+* Aplicação: O modelo PIM proposto resolve o problema de alocação de alunos e professores em redes públicas de ensino
+
+#### Mestrado em Desenvolvimento Regional (2004)
+* Local: Universidade Federal do Amazonas, Brasil
+* Linha de Pesquisa: Econometria
+* Campo teórico: Regressão Linear Múltipla (Clássico e Bayesiano)
+* Aplicação: O modelo proposto estima o custo de viagens em embarcações da região Amazônica
+
+#### Bacharel em Estatística (1996)
+* Local: Universidade Federal do Amazonas, Brasil
+
+### Experiência na Docência do Ensino Superior
+* 2007 – Atual / Universidade Federal do Amazonas (UFAM) – Professor Adjunto, 40 horas (tempo integral)
+
+* 2002 a 2007 / Universidade do Estado do Amazonas (UEA) – Professor Mestre, 40 horas (tempo integral)
+
+* 2000 a 2002 / Instituto de Tecnologia do Amazonas (UTAM) – Professor Auxiliar, 40 horas
+
+* 2001 a 2002 / Centro de Ensino Superior Nilton Lins (CESNL) - Professor de Ensino Superior
+
+* 1999 / Universidade Federal do Amazonas (UFAM) – Professor Voluntário 
+
+* 1997 a 1998 / Universidade Federal do Amazonas (UFAM) – Professor Substituto
+
+### Pesquisas em Andamento
+
+#### Projeto: Monitoramento do Plano Nacional de Educação para os Municípios da Região Norte (PNE/NORTE)
+
+* Função: Coordenador
+
+* Agência de Fomento: Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)
+
+* Objetivo: Calcular os indicadores de desempenho para as 20 metas do Plano Nacional de Educação (PNE) para os municípios da Região Amazônica
+
+* Status: em andamento
+
+* Previsão de término: julho/2022
+
+#### Projeto: Sistema para Otimização de Redes Públicas de Ensino (SORPE)
+
+* Função: Coordenador
+
+* Agência de Fomento: Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)
+
+* Objetivo: Desenvolver um sistema computacional que otimiza Sistemas Públicos de Ensino
+
+* Status: em andamento
+
+* Previsão de término: julho/2022
+
+#### Projeto: LOC-MOBILE
+
+* Função: Pesquisador
+
+* Agência de Fomento: Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM)
+
+* Objetivo: Desenvolver um aplicativo mobile que seja usado na localização de alunos matriculados em redes públicas de ensino
+
+* Status: em andamento
+
+* Previsão de término: julho/2022
+
+### Pesquisas Pós-Doutorais
+
+Minhas atuais pesquisas estão voltadas para duas áreas distintas: otimização e construção de indicadores educacionais.
+
+No primeiro caso, trata-se do desenvolvimento de um sistema computacional que implementa um Modelo de Programação Linear Inteira Mista, que otimiza sistemas públicos de ensino. A odeia é que este sistema otimize redes de ensino administradas pelo Estado, pois, diferente do que acontece em países desenvolvidos, a alocação de alunos em muitos países não respeita a proximidade dos alunos às escolas.
+
+O outro tema de interesse, trata do monitoramento de indicadores educacionais. Neste caso, utiliza-se as bases de dados governamentais para monitorar o 
+
+
